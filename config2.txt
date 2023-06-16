@@ -1,0 +1,16 @@
+canvas_width 20
+canvas_height 10
+
+output_filename output.txt
+
+empty_symbol .
+
+
+figure square 8 4 6 #
+figure circle 14 6 4 @
+figure triangle1 5 2 5 ^
+figure triangle2 15 8 5 >
+figure triangle3 5 8 5 <
+figure triangle4 15 2 5 *
+
+light 1 5 *
